@@ -1,11 +1,3 @@
-//
-//  CalculatorLogic.swift
-//  Calculator
-//
-//  Created by Robert on 30/04/2020.
-//  Copyright © 2020 London App Brewery. All rights reserved.
-//
-
 import Foundation
 
 struct CalculatorLogic {
